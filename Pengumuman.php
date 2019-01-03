@@ -9,6 +9,7 @@
                 <th>Salary</th>
             </tr>
         </thead>
+        </thead>
         <tbody>
             <tr>
                 <td>Tiger Nixon</td>
